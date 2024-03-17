@@ -7,7 +7,7 @@ RoomSync is a cutting-edge platform that integrates multiple machine learning mo
   <li>Damage & Stain Detection</li>
   <li>Comparative Analysis</li>
 </ul>
-<img src="https://github.com/abdullahquantumx/FoodCoaster-2.O-/blob/main/assets/137316478/141c03ae-5cce-4751-a8a8-15b3727e7346" alt="img" >
+<img src="https://github.com/abdullahquantumx/FoodCoaster-2.O-/assets/137316478/a00934d7-0f45-441f-80c0-ae82c4effa15" alt="img" >
 <!-- <img src='https://github.com/abdullahquantumx/FoodCoaster-2.O-/blob/main/assets/137316478/141c03ae-5cce-4751-a8a8-15b3727e7346'> -->
 
 # The problem ROOMSYNC solves
