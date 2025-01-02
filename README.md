@@ -16,3 +16,6 @@ RoomSync is a cutting-edge platform that integrates multiple machine learning mo
 # TECHNOLOGIES USED 
 
 <h4> REACT JS  |  POSTGRE SQL |  FLASK  | YOLO V5  |  TAILWIND CSS | TENSORFLOW | PYTHON IMAGE PROCESSING</h3>
+
+# Demonstration
+https://youtu.be/qM99p6QeNoY
